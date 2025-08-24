@@ -1,0 +1,101 @@
+rank,genre,artist,title,song_id,play_count
+1,Jazz,Ron Carter,I CAN'T GET STARTED,SOUNZHU12A8AE47481,158636
+2,Jazz,Jacky Terrasson,Le Jardin d'Hiver,SOMCMKG12A8C1347BF,75540
+3,Jazz,Erin Bode,Here_ There And Everywhere,SOPBFHP12A8C131F30,43298
+4,Jazz,Michael Bublé,Home (Album Version),SOHQFNK12A6701C0B9,28314
+5,Jazz,Bohren & Der Club Of Gore,Welk,SOASTSF12A8C1420B5,24673
+6,Jazz,Bohren & Der Club Of Gore,Schwarze Biene (Black Maja),SONOMEC12A8C14541F,21616
+7,Jazz,Zero 7,In The Waiting Line,SOMCWAZ12A67ADBCE3,20733
+8,Jazz,João Gilberto,Bolinha De Papel,SODVWOV12A6D4FB6D2,17815
+9,Jazz,Dave Grusin,St. Elsewhere,SONIIYT12A58A7E0AF,13538
+10,Jazz,Parov Stelar,KissKiss,SOLCKBV12A8C13CEC1,13290
+11,Jazz,Amy Winehouse,Back To Black,SOPBAZT12A6D4F8E88,11590
+12,Jazz,Jan Hammer,Crockett's Theme,SOZMEWR12A6701EBD9,10877
+13,Jazz,Oscar Peterson,Nighttime,SOTIVSJ12A6310DA82,10274
+14,Jazz,Miles Davis,'Round Midnight,SOXDEDR12A8AE452CC,9726
+15,Jazz,Evanescence,My Last Breath,SOIAHAG12A8C137806,8826
+16,Jazz,Deborah Harry & Iggy Pop,Well Did You Evah!,SOGLRDV12A6D4F6D73,8713
+17,Jazz,Koop,Come To Me,SOBIONB12AB0185862,8379
+18,Jazz,Ulf Wakenius,Good Morning Susie Soho,SOSQIRI12A8C133897,8174
+19,Jazz,Mikromusic,Moje Mieszkanie,SOBWRTW12AB018825D,8021
+20,Jazz,Bo Kaspers Orkester,Undantag,SOPLVFB12A8C141022,7651
+21,Jazz,Mr. Scruff,Get A Move On!,SOOPXFG12A6D4FB80C,7260
+22,Jazz,Marion Meadows,Between The Sheets,SOYRLND12AB018065C,5600
+23,Jazz,The Solsonics,Keep The Rhythm Strong,SOYVKLY12A6D4F7C54,5584
+24,Jazz,Madeleine Peyroux,Dance Me To The End Of Love,SONPYCL12A6310DBDD,5351
+25,Jazz,Koop,Koop Island Blues,SOSHWWI12A58A7A6A0,5103
+26,Jazz,Oscar Brown Jr.,Watermelon Man,SOVABIW12A8C1341B9,5013
+27,Jazz,April Stevens,Teach Me Tiger,SOKBNPB12AC9070EF6,4957
+28,Jazz,João Gilberto,Desde Que O Samba E Samba,SOHICUL12A6D4FA526,4755
+29,Jazz,Dusty Springfield,Spooky,SOZWJEP12A6310E1F5,4511
+30,Jazz,Jamie Cullum,Back To The Ground,SOQJYWS12A67AE0EC9,4451
+31,Jazz,João Gilberto,Eu Quero Um Samba,SORWVIM12A6D4FAD61,4434
+32,Jazz,Melody Gardot,Baby I'm A Fool,SOGVAPY12AB0183DDD,4158
+33,Jazz,Esperanza Spalding / Leo Genovese,I Know You Know,SOVSXPH12AB0181339,4123
+34,Jazz,Sade,Is It A Crime,SOVIUNE12A8AE4561D,4117
+35,Jazz,Keely Smith,You Go To My Head,SOVSTAJ12A6D4F5F5E,4064
+36,Jazz,Michael Bublé,A Foggy Day (In London Town) (Album Version),SOGZRAF12A58A7DC58,3963
+37,Jazz,Jose Padilla,Adios Ayer,SORSHEE12AB0182D32,3950
+38,Jazz,João Gilberto,Aguas De Marco,SOSMBYU12A6D4FAD5C,3911
+39,Jazz,Jamie Cullum,You And The Night And The Music,SOXKVVO12A8C13FC42,3889
+40,Jazz,Wes Montgomery,The Shadow Of Your Smile,SOHUETB12A6D4FA4CB,3740
+41,Jazz,Inger Marie Gundersen,Melancholy Blue,SOXXGLL12AB018816F,3716
+42,Jazz,Aisha Duo,Beneath an Evening Sky,SOUGLCH12A8C140306,3681
+43,Jazz,Chick Corea Akoustic Band,On Green Dolphin Street,SOHXMYD12A6D4FA80E,3650
+44,Jazz,Joe Lovano,Duke Ellington's Sound Of Love,SOXQZEU12A8C1429EA,3616
+45,Jazz,Michel Camilo,Tropical Jam,SOATSWY12A8C132818,3585
+46,Jazz,Esperanza Spalding / Leo Genovese,Precious,SOUIESP12AB018283E,3585
+47,Jazz,Giuliano Palma & The Bluebeaters,Se Ne Dicon Di Parole,SOZQSXN12AB018671C,3552
+48,Jazz,Katie Melua,Thank You Stars,SOSPJWZ12A6D4F7C96,3528
+49,Jazz,Herbie Hancock,Bérangère's Nightmare,SOKQHXV12AB0185B3D,3434
+50,Jazz,Waldeck,Memories,SOZHLFT12A8C13BA52,3430
+51,Jazz,Astrud Gilberto,The Girl From Ipanema,SOZBQIA12A8C13E839,3391
+52,Jazz,João Gilberto,Falsa Baiana,SOVCICV12A6D4FAD60,3380
+53,Jazz,Melody Gardot,Our Love Is Easy,SOVQTBI12AB0183DF1,3353
+54,Jazz,Bebel Gilberto,Samba Da Bencao,SOMHFKQ12AF72A4040,3291
+55,Jazz,Soulive,Alkime,SOIFAGN12A6D4F7B29,3265
+56,Jazz,Najee,All Day Sucker / Easy Goin' Evening,SOGNFRF12A6D4F7535,3220
+57,Jazz,Jan Hammer,Theresa,SOZHMHC12A58A79766,3211
+58,Jazz,Antonio Carlos Jobim,Wave,SOULRQS12A8C1388BC,3187
+59,Jazz,Miles Davis,Move,SOEHZFF12A6310EE82,3180
+60,Jazz,Archie Shepp,Attica Blues,SONCSUA12A6D4F933A,3063
+61,Jazz,Diana Krall,Let's Fall In Love,SOCMWUM12AF72A56B1,2997
+62,Jazz,Art Blakey,The Theme,SOZNQUY12AC468A843,2949
+63,Jazz,Esperanza Spalding / Leo Genovese,Fall In,SOQIKIU12AB0181342,2929
+64,Jazz,Bohren & Der Club Of Gore,Orgelblut,SOAAAGQ12A8C1420C8,2890
+65,Jazz,Jamie Cullum,Love Ain't Gonna Let You Down,SOUZCGQ12AB0180F4C,2810
+66,Jazz,Michael Bublé,Me & Mrs. You,SOZQXHH12A8C134513,2784
+67,Jazz,Esperanza Spalding / Leo Genovese,I Adore You,SOWATFD12AB018281C,2762
+68,Jazz,Thelonious Monk,Crepuscule With Nellie,SOBIATB12A8C1349F9,2724
+69,Jazz,Klaus Badelt,Fog Bound,SORJGZQ12A6D4F965C,2649
+70,Jazz,Louis Armstrong,Ain't Misbehavin',SOEDLZQ12A8C133B68,2641
+71,Jazz,Nightmares On Wax,You Wish,SOYZLOI12AB0180146,2582
+72,Jazz,The Herbaliser feat. Roots Manuva,Starlight,SOHDRTY12AB0186A26,2575
+73,Jazz,Diana Krall,Let's Face The Music And Dance,SOAOPMH12A8C13FB25,2571
+74,Jazz,Candy Dulfer,Big Girl,SOLXATJ12A8C13E471,2533
+75,Jazz,Melody Gardot,Your Heart Is As Black As Night,SOTRAMS12AB0183DE4,2531
+76,Jazz,João Gilberto,Avarandado,SOVAQER12A6D4FAD5F,2521
+77,Jazz,Herbie Hancock,Karabali,SOSMCQV12A8C1320E4,2511
+78,Jazz,Medeski_ Martin & Wood,Ice,SOKCFHC12A6D4F7D1A,2496
+79,Jazz,Katie Melua,If You Were A Sailboat,SONHCFB12A6D4FA36F,2492
+80,Jazz,Medeski Martin & Wood,The Saint,SODDEKX12B0B80BC90,2488
+81,Jazz,Jamie Cullum,Too Close For Comfort,SOUJPPX12A8C13F844,2457
+82,Jazz,Esperanza Spalding / Leo Genovese,Espera,SOSOMYW12AB0182858,2455
+83,Jazz,Chris Botti featuring Jill Scott,Good Morning Heartache,SOQVXRU12A8C13DC45,2452
+84,Jazz,Bobbi Humphrey,Chicago_ Damn,SOFKVPB12A58A7EE65,2435
+85,Jazz,Squirrel Nut Zippers,Put A Lid On It,SOIOHGO12A8C138522,2423
+86,Jazz,Melody Gardot,Who Will Comfort Me,SOAVFYU12AAF3B1EA8,2395
+87,Jazz,Clifford Brown,Daahoud,SOIYFHL12A6D22729E,2393
+88,Jazz,Belleruche,Minor Swing,SOIHILE12A58A7B8F2,2323
+89,Jazz,Pat Metheny,Change of Heart,SONYIAE12A58A79185,2308
+90,Jazz,Count Basie,Lullaby Of Birdland,SOMHJTH12AB0181972,2307
+91,Jazz,Weather Report,Confians,SOZMWPB12A8C131F1B,2298
+92,Jazz,De-Phazz,Belle de Jour,SOBLQYI12AB018367E,2294
+93,Jazz,Kenny G with Babyface,Everytime I Close My Eyes,SORPDYF12A8C136D66,2285
+94,Jazz,Al Di Meola,I Can Tell,SORGUXA12A8C132587,2265
+95,Jazz,Melody Gardot,Worrisome Heart,SOAAKSG12A8C136679,2263
+96,Jazz,Jamie Cullum,Photograph,SOGGBOO12A67AE0EBF,2237
+97,Jazz,MFSB,Freddie's Dead,SOMDFLO12AB0184570,2221
+98,Jazz,Koop,Tonight,SOQGGKV12AB018BC60,2167
+99,Jazz,Art Pepper,Mambo De La Pinta,SOGBVYU12A6D4F7293,2161
+100,Jazz,Al Di Meola,Roller Jubilee,SOFSAFC12A8C1331C1,2160

@@ -1,0 +1,101 @@
+rank,genre,artist,title,song_id,play_count
+1,Blues,Sonny Boy Williamson,Don't Start Me Talkin',SOCHTHF12AB017E206,37942
+2,Blues,Tab Benoit,Jambalaya,SOTCWRK12AB017E47D,32888
+3,Blues,Robert Johnson,I?'m A Steady Rollin? Man,SOKRIMP12A6D4F5DA3,25760
+4,Blues,Homesick James,Working With Homesick,SOGSDHY12AB017BF39,19014
+5,Blues,Creed,My Sacrifice,SOVALQH12AB0189114,15731
+6,Blues,King Floyd,Groove Me,SONMCDN12A8C141750,14319
+7,Blues,Snow Patrol,Just Say Yes,SOOPVJI12AB0183957,13629
+8,Blues,Muse,Do We Need This?,SOIPSJB12A67ADD6C0,10024
+9,Blues,B.B. King,There Must Be A Better World Somewhere,SOHBVLJ12A6D227263,8624
+10,Blues,Spinetta Jade,El Hombre Dirigente,SOYTCMK12A8C13F32F,8314
+11,Blues,Jonathan Coulton,Still Alive,SOSLPTU12A8C1445D7,7696
+12,Blues,Huey Lewis And The News,Stuck With You,SOJBFFO12A6D4F6D00,7548
+13,Blues,Bo Diddley,Pills,SOFKEHN12A6701FDFB,7203
+14,Blues,The Blues Brothers,Groove Me (Live Version),SOYMRKJ12A6D4F97B5,6535
+15,Blues,J. Holiday,Suffocate,SOJKMNB12A8C132257,6253
+16,Blues,Beyoncé,At Last,SOPDRJZ12AF72A6CE5,6055
+17,Blues,Katie Melua,Spider's Web,SOSWKLR12A6D4F7CB0,5812
+18,Blues,Susan Tedeschi,Soul Of A Man,SOAKZBT12A8C13790C,5025
+19,Blues,Chris Rea,Speed,SORSIEU12AB017DCEC,4883
+20,Blues,Katie Melua,Nine Million Bicycles,SOEAKGI12A6D4F7CA4,4822
+21,Blues,The Blues Brothers,Sweet Home Chicago,SOCSXMM12AB0186A58,4490
+22,Blues,Magic Sam,Call Me If You Need Me,SOAZVLB12A6D4FCC2D,4448
+23,Blues,Stevie Ray Vaughan And Double Trouble,Leave My Girl Alone,SOPCWRO12AF729A8E5,4417
+24,Blues,Gorillaz,Slow Country,SOTWWXM12A6311084B,4195
+25,Blues,Rory Gallagher,Tattoo'd Lady,SOBJVMJ12AAF3B315C,4111
+26,Blues,Daft Punk,Revolution 909,SOXFTSF12A6D4F7278,4106
+27,Blues,Faithless,Don't Leave,SOLXYFV12A8AE45FE3,3897
+28,Blues,Bo Diddley,I'm A Man,SOKNCNR12A6701FDEC,3728
+29,Blues,John Lee Hooker,Harry's Philosophy,SONXTJP12A6D4F9612,3274
+30,Blues,Joe Bonamassa,Asking Around For You,SODNYLK12AB0184688,3226
+31,Blues,Chuck Berry,Almost Grown,SOKHPOV12A8C13D641,3103
+32,Blues,Kudai,Llévame (Acústico),SOLNJUS12A6D4F8BB1,3030
+33,Blues,Jonny Lang,Lie To Me,SOAWRMA12A679AE595,3019
+34,Blues,Otis Rush,Mean Old World,SOUSCFR12A58A7D3DA,2937
+35,Blues,Stefan Grossman,Memphis Jellyroll,SOIBSTB12A8C1322FC,2936
+36,Blues,Otis Taylor,Nasty Letter,SOTWLFU12AB0180970,2807
+37,Blues,Sue Foley,Love Comin' Down,SODFLBU12A6D4FA5F2,2674
+38,Blues,Dennis Ferrer,Hey Hey,SOMXBFC12AB018AC71,2483
+39,Blues,Jonny Lang,Back For A Taste Of Your Love,SOGMOWB12A679AE595,2442
+40,Blues,The Blues Brothers,Minnie The Moocher,SOZFICM12AB0186A1E,2382
+41,Blues,John Lee Hooker & Carlos Santana,Chill Out (Things Gonna Change),SOLAAEL12AAF3B5005,2350
+42,Blues,Sam and Dave,Hold on I'm Coming,SOLMJGW12A58A78F29,2265
+43,Blues,Bobby Blue Bland,I Pity the Fool,SOIEBGY12AB018F529,2192
+44,Blues,Tom Waits,Christmas Card From A Hooker In Minneapolis,SOXTNEG12A8C139823,2138
+45,Blues,The Blues Brothers,Think,SOLXVTW12AB0186A1B,2122
+46,Blues,"Bobby ""Blue"" Bland",St. James Infirmary,SOSVNZM12A8C135FCC,2116
+47,Blues,Crowded House,Into Temptation,SOMWXVR12A6D4F7B9D,2089
+48,Blues,Nicole Kidman,One Day I'll Fly Away,SOCLBXM12A6701D225,2056
+49,Blues,Memphis Jug Band,K.C. Moan,SOALYOT12A8C142567,1967
+50,Blues,Eric Clapton,Little Wing,SOFWHQS12AB0182549,1932
+51,Blues,Blackalicious,Make You Feel That Way,SOKTXEZ12A6310D7C5,1921
+52,Blues,Jonny Lang,Red Light,SOEPUBC12A6D4F975B,1918
+53,Blues,Jonny Lang,Breakin' Me,SOIMFXV12AB017F48C,1913
+54,Blues,Maria Gadú,Tudo Diferente,SOWEYGU12AC468D169,1873
+55,Blues,Faudel,Mon Pays,SODADNO12A8C13C034,1854
+56,Blues,Basshunter,Mellan Oss Två,SOLSBRZ12A6D4F87E0,1829
+57,Blues,Joe Bonamassa,I Don't Believe,SOQXOHK12A58A7CE3F,1809
+58,Blues,Jonny Lang,Anything's Possible,SOSZWJB12AB0180ED9,1808
+59,Blues,brokeNCYDE,Sex Toyz,SORQQYZ12AB0187456,1800
+60,Blues,Fanny Lu,No Te Pido Flores,SOIEKQT12A8C13D205,1795
+61,Blues,Jimi Hendrix,Voodoo Chile Blues,SOIDJZY12A6701DEF7,1769
+62,Blues,Robben Ford,Lifetime Thing,SOEQTHW12AAF3B340A,1730
+63,Blues,Jonny Lang,Turn Around,SOXVDLR12AB01896CA,1697
+64,Blues,Freddie Mercury,Love Me Like There's No Tomorrow (2000 Digital Remaster),SOSVGPL12A6D4F7052,1688
+65,Blues,Johnny Winter,Good Morning Little School Girl,SOBJPXL12A4280634F,1652
+66,Blues,Clint Mansell,Stay With Me,SOQDELF12A58A78857,1613
+67,Blues,Da Hool,Meet Her At The Love Parade,SOAVZQP12A6D4FD8AA,1600
+68,Blues,Joe Bonamassa,Revenge of the 10 Gallon Hat,SOLFQET12AF72AB284,1580
+69,Blues,Willie Dixon,Weak Brain_ Narrow Mind,SOFNEVQ12A6D4F819A,1488
+70,Blues,Enigma,I Love You...I'Ll Kill You,SOVLSMG12AF72A72A5,1483
+71,Blues,Bob Log III,Drunk Stripper,SOABFVJ12AF72A4554,1443
+72,Blues,Lou Rawls,Unforgettable,SOFOMOY12A8C141D28,1443
+73,Blues,Ma Rainey,Slave To The Blues,SODWGLU12A8C1386F4,1437
+74,Blues,Vaya Con Dios,What's A Woman,SOXXGLO12A8C137E5E,1424
+75,Blues,Junior Kimbrough,Lord_ Have Mercy On Me,SOOWZVV12AB0185EF2,1419
+76,Blues,Chris Thomas King,Hard Time Killing Floor Blues,SOZBXEL12A6D4F9046,1382
+77,Blues,B.B. King,Gambler's Blues,SOEKUTJ12A6D4F70CD,1356
+78,Blues,Leadbelly,T.B. Blues,SOEFPMF12AB018E29A,1334
+79,Blues,The Jeff Healey Band,Highway 49,SOHRIAV12A8C136938,1298
+80,Blues,Junior Kimbrough,Nobody But You,SOURTWV12AF72A05F8,1275
+81,Blues,Stevie Ray Vaughan And Double Trouble,Wham!,SONUGJE12A58A7A438,1269
+82,Blues,Imelda May,Big Bad Handsome Man,SOYZUNI12AB017EEAC,1239
+83,Blues,The Allman Brothers Band,Stormy Monday,SOQLHFS12B35058AB4,1235
+84,Blues,Jonny Lang,Bump In The Road,SOBLYFY12AF72A3A3A,1227
+85,Blues,The Blues Brothers,Rubber Biscuit,SOFDLHE12A58A7D42E,1225
+86,Blues,Luther Allison,What Have I Done Wrong,SOLKAAM12AB0186358,1220
+87,Blues,Howlin' Wolf,Evil Is Going On,SOZVIBF12A8C138DE7,1172
+88,Blues,Peggy Scott-Adams,Bill,SOEAXQZ12A81C23566,1163
+89,Blues,Bonnie Raitt,Silver Lining,SOXQMFT12A58A7AA88,1162
+90,Blues,Jonny Lang,Only A Man,SOBWLWQ12AB018AB91,1161
+91,Blues,Johnny Winter,Broke And Lonely,SOITJFI12A8C136BC8,1152
+92,Blues,The Blues Brothers,Going Back To Miami,SOMIHDU12AB0180B45,1152
+93,Blues,Keb' Mo',I'm A Hero,SOFRDQG12AF72A2E7F,1143
+94,Blues,Bo Diddley,Before You Accuse Me (Take A Look At Yourself),SONJWWI12A8C13541B,1128
+95,Blues,North Mississippi Allstars,All Along,SOUIMRC12A8C13D391,1124
+96,Blues,Evergreen Terrace,Sunday Bloody Sunday,SOAEOPF12AB018B30F,1103
+97,Blues,B.B. King,It's My Own Fault,SOIGMTU12AB0179CEC,1024
+98,Blues,Cloud Cult,No One Said It Would Be Easy,SORZBST12A8C13C24B,1009
+99,Blues,The Blues Brothers,New Orleans,SOSYSGS12AB0186A23,1001
+100,Blues,Howlin' Wolf,Smokestack Lightning,SOQVAPZ12AC9071B98,999

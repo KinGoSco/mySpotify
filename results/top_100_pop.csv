@@ -1,0 +1,101 @@
+rank,genre,artist,title,song_id,play_count
+1,Pop,Train,Marry Me,SOTWNDJ12A8C143984,174080
+2,Pop,Lady GaGa,Alejandro,SOSCIZP12AB0181D2F,111615
+3,Pop,Justin Bieber,Somebody To Love,SODGVGW12AC9075A8D,110757
+4,Pop,La Roux,Bulletproof,SOLRGVL12A8C143BC3,110240
+5,Pop,Black Eyed Peas,I Gotta Feeling,SOXFPND12AB017C9D1,96809
+6,Pop,Beyoncé,Halo,SOADJQJ12A8C141D38,91461
+7,Pop,Muse,Uprising,SOANQFY12AB0183239,87050
+8,Pop,California Swag District,Teach Me How To Dougie,SOSZJFV12AB01878CB,82819
+9,Pop,Miley Cyrus,Party In The U.S.A.,SOVWADY12AB0189C63,78443
+10,Pop,The Verve,Bitter Sweet Symphony,SOXQYSC12A6310E908,76893
+11,Pop,Katy Perry,I Kissed A Girl,SONOYIB12A81C1F88C,69458
+12,Pop,Sean Kingston and Justin Bieber,Eenie Meenie,SOGSAYQ12AB018BA14,66998
+13,Pop,Owl City,Vanilla Twilight,SOGTQNI12AB0184A5C,63937
+14,Pop,Justin Bieber,U Smile,SOGCWUH12AC90732B0,61568
+15,Pop,Adam Lambert,If I Had You,SOISNSU12AC468C0D8,57602
+16,Pop,Florence + The Machine,Kiss With A Fist,SOHFNKO12AB017C772,55921
+17,Pop,Justin Bieber,Never Let You Go,SOUGCDK12AC95F075F,54149
+18,Pop,Eminem,The Real Slim Shady,SOKOXWU12AF72AD1BC,52841
+19,Pop,Justin Bieber,One Time,SODOWUC12AC9097E76,51106
+20,Pop,Justin Bieber,Love Me,SOGWJEY12AC9618862,50925
+21,Pop,Justin Bieber,That Should Be Me,SOIDDNJ12AC9071B90,49119
+22,Pop,Leona Lewis,Forgive Me,SOMNTMT12A8C1400F6,48575
+23,Pop,LU,Una Confusion,SOWGCMN12A8C136E44,47603
+24,Pop,Britney Spears,Toxic,SOUSZSW12AB01800C2,42692
+25,Pop,matchbox twenty,Unwell (Album Version),SOIOESO12A6D4F621D,42183
+26,Pop,Shakira Featuring Wyclef Jean,Hips Don't Lie (featuring Wyclef Jean),SOEHWGF12A6D4F8B2B,41301
+27,Pop,Rihanna,Te Amo,SOHZPIK12A58A7CCAE,40660
+28,Pop,Tiny Vipers,They Might Follow You,SOBUBLL12A58A795A8,40072
+29,Pop,Justin Bieber,One Less Lonely Girl,SOWCBKV12AC90732A6,39778
+30,Pop,Lady GaGa,Monster,SOEYVHS12AB0181D31,37957
+31,Pop,Enrique Iglesias,Hero,SOYGHOJ12A6701FFBA,37332
+32,Pop,My Chemical Romance,Welcome To The Black Parade (Album Version),SOQQAAQ12A67ADE34D,35603
+33,Pop,New Radicals,You Get What You Give,SONZWDK12A6701F62B,35408
+34,Pop,Justin Bieber,Stuck In The Moment,SOTASGN12AC9075A8F,34671
+35,Pop,Imogen Heap,Hide & Seek,SOSJFDH12A8C143096,33855
+36,Pop,Miley Cyrus,The Climb,SOUKMKR12A8C141925,32778
+37,Pop,Justin Bieber,Down To Earth,SOFKFXC12AC90732A5,31672
+38,Pop,Phil Collins,You'll Be In My Heart,SONVPTP12A6D4F7A34,31333
+39,Pop,Tavares,Heaven Must Be Missing An Angel,SOMDVSL12A6D4F7230,30700
+40,Pop,Kelly Clarkson,Already Gone,SOFGJCW12AF72A812D,30486
+41,Pop,Colbie Caillat,I Never Told You,SOLRBSH12AB018AE7B,29113
+42,Pop,Smash Mouth,All Star,SOFPXFY12A6701C5C3,28543
+43,Pop,Avril Lavigne,My Happy Ending,SOCYOTN12A8C13A4B1,27203
+44,Pop,Cartola,Verde Que Te Quero Rosa,SOXAHKA12AF72A5A65,26695
+45,Pop,Enya,May It Be (Album version),SOEHZUQ12A3F1EBC10,26270
+46,Pop,Soundgarden,Burden In My Hand,SOYIZSN12A6701E0BB,26013
+47,Pop,Vanessa Williams,Colors Of The Wind,SOXAAFS12A8C14041D,26001
+48,Pop,Alicia Keys,Empire State Of Mind (Part II) Broken Down,SOUCMUI12AB018C0C6,25203
+49,Pop,Lisa Loeb & Nine Stories,Stay,SOBNSME12A6701E2FD,25116
+50,Pop,John Mayer,Perfectly Lonely,SOTHABI12A58A7DACB,24737
+51,Pop,Alanis Morissette,Ironic (Acoustic Album Version),SOPWZGK12A67020744,24559
+52,Pop,John Mayer,Waiting On The World To Change,SOVJHCB12A8AE4636E,24455
+53,Pop,Katy Perry,Thinking Of You,SOQGJZA12A8C1367AE,24344
+54,Pop,Gorillaz,On Melancholy Hill,SOYFQVR12AB018ACA5,24147
+55,Pop,Iyaz,Replay,SOZKNSB12A8C140F11,23562
+56,Pop,UB40,Red Red Wine (Edit),SOPZKGR12A6D4F3F3A,23263
+57,Pop,Lily Allen,The Fear,SOXQROF12AB0186B1D,23139
+58,Pop,Kanye West,Homecoming,SOIYWPZ12A81C204EF,23119
+59,Pop,Carpenters,(They Long To Be) Close To You,SOHKZSM12A8C13E5D5,22811
+60,Pop,Jason Mraz,Make It Mine (Album Version),SOOLKSV12AAA8C6B2A,22786
+61,Pop,Cat Stevens,Peace Train,SOXBCZH12A67ADAD77,22532
+62,Pop,Lily Allen,LDN,SOTKMXA12A6D4F672F,22046
+63,Pop,Justin Bieber,Up,SOJUXGA12AC961885C,21714
+64,Pop,Boys Like Girls featuring Taylor Swift,Two Is Better Than One,SOJJYDE12AF729FC16,21624
+65,Pop,Amy Winehouse,Valerie,SOSELMV12A6D4FCF5A,21348
+66,Pop,Lily Allen,Not Fair (Clean Radio Edit),SOFTWWH12AB017AD0E,21319
+67,Pop,The Cardigans,Lovefool,SOCNCGL127D9786D66,20929
+68,Pop,Des'ree,You Gotta Be,SOPUDWU12A8AE4612A,20746
+69,Pop,Black Eyed Peas,Let's Get It Started,SOCHRXB12A8AE48069,20511
+70,Pop,The B-52's,Love Shack,SOJNNUA12A8AE48C7A,20226
+71,Pop,Justin Bieber,Runaway Love,SODTHOY12AC9071AE7,20109
+72,Pop,Madonna,Beautiful Stranger,SOKAQBY12AB0185614,20077
+73,Pop,Lady GaGa,Speechless,SOXGQEM12AB0181D35,20057
+74,Pop,Beyoncé feat. Slim Thug,Check On It,SOKXYUW12A8C140229,19829
+75,Pop,Kajagoogoo,Too Shy,SOUGAYN12A6D4F6E90,19601
+76,Pop,Mariah Carey,We Belong Together,SOCGWCK12A67020F39,19430
+77,Pop,4 Non Blondes,What's Up?,SOUOCRG12A67AE0E17,19265
+78,Pop,Wolfsheim,Once In A Lifetime,SOHBFUU12A6D4F9DD8,19230
+79,Pop,PeterLicht,Heiterkeit,SOKVDJM12A8C13B274,19154
+80,Pop,Owl City,The Saltwater Room,SOBABSR12A58A7AD93,18902
+81,Pop,Yael Naïm,New Soul,SOFPSZV12A6D4FBBFA,18522
+82,Pop,Gorillaz,DARE,SOMNGMO12A6702187E,18342
+83,Pop,Natalie Imbruglia,Torn,SOWKSFG12A8C13E535,18272
+84,Pop,Avril Lavigne,I'm With You,SOEPJPV12A8C13DE9F,17849
+85,Pop,Feist,1234,SOLTSGU12A8C13BFE5,17655
+86,Pop,Jack Johnson,Constellations,SOBYHAJ12A6701BF1D,17637
+87,Pop,James Blunt,Goodbye My Lover,SOEDXFM12A8C1459E9,17602
+88,Pop,Michael Bublé,Sway (Album Version),SOVHYVB12A3F1EC277,17552
+89,Pop,White Town,Your Woman,SOCRCNK12A8C133AA7,17501
+90,Pop,Blondie,Atomic '98 (Xenomania Mix),SOTVZIB12A6D4F694A,17252
+91,Pop,Lady GaGa,Beautiful_ Dirty_ Rich,SOASXQD12AB018902F,17175
+92,Pop,Justin Bieber,Common Denominator,SOIYIMC12AC9097E45,17159
+93,Pop,Paramore,Ignorance (Album Version),SOJEYPO12AAA8C6B0E,17065
+94,Pop,Avril Lavigne,When You're Gone,SOFPJGB12A8C143EA1,16482
+95,Pop,Kate Winslet,What If (Film Version),SOGUKDL12A6D4FAAB9,16389
+96,Pop,Bobby McFerrin,Don't Worry Be Happy,SOZBAAH12A6D4F959F,16272
+97,Pop,Michael Jackson,The Way You Make Me Feel,SOGRWVE12A8AE488B1,16251
+98,Pop,Céline Dion,My Heart Will Go On,SOUBZPQ12A8C13629D,16133
+99,Pop,Lady GaGa,Paper Gangsta,SODXRTY12AB0180F3B,15864
+100,Pop,Modern English,I Melt With You,SODGTHG12AB017F730,15742

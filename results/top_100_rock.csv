@@ -1,0 +1,101 @@
+rank,genre,artist,title,song_id,play_count
+1,Rock,Björk,Undo,SOAUWYT12A81C206F1,648239
+2,Rock,Kings Of Leon,Revelry,SOSXLTC12AF72A7F54,527893
+3,Rock,Harmonia,Sehr kosmisch,SOFRQTD12A81C233C0,425463
+4,Rock,OneRepublic,Secrets,SONYKOW12AB01849C9,292642
+5,Rock,Tub Ring,Invalid,SOUFTBI12AB0183F65,268353
+6,Rock,Kings Of Leon,Use Somebody,SOWCKVR12A8C142411,145725
+7,Rock,The Crests,16 Candles,SOWEHOM12A6BD4E09E,129069
+8,Rock,Coldplay,Clocks,SOCVTLJ12A6310F0FD,114362
+9,Rock,Coldplay,Yellow,SOPXKYD12A6D4FA876,109566
+10,Rock,Paramore,The Only Exception (Album Version),SOKUPAO12AB018D576,103653
+11,Rock,Radiohead,Creep (Explicit),SOPQLBY12A6310E992,98854
+12,Rock,Mike And The Mechanics,A Beggar On A Beach Of Gold,SOZCDWG12A6D4F81E1,97488
+13,Rock,Edward Sharpe & The Magnetic Zeros,Home,SOTVLQY12A58A798C2,97215
+14,Rock,3 Doors Down,Kryptonite,SOLLNTU12A6701CFDC,94900
+15,Rock,Florence + The Machine,Cosmic Love,SOXWYZP12AF72A42A6,94002
+16,Rock,Evanescence,Bring Me To Life,SONIQRE12AF72A2B02,91448
+17,Rock,Base Ball Bear,Sayonara-Nostalgia,SOQCGHN12AB0181246,89187
+18,Rock,Cradle Of Filth,Better To Reign In Hell,SOQZYQH12A8AE468E5,88075
+19,Rock,John Mayer,Heartbreak Warfare,SOUFPNI12A8C142D19,87745
+20,Rock,Modest Mouse,Float On,SONNSYV12A8C146BEC,85079
+21,Rock,Bon Jovi,Livin' On A Prayer,SOGPBAW12A6D4F9F22,83616
+22,Rock,The Buggles,Video Killed The Radio Star,SOVWBYM12A6D4F8A22,76811
+23,Rock,Rise Against,Savior,SOUJVIT12A8C1451C1,74654
+24,Rock,MGMT,Electric Feel,SOXPFLM12A8AE48C50,70648
+25,Rock,The White Stripes,Seven Nation Army,SOAUFOF12AB0180C65,70470
+26,Rock,Plain White T's,Hey There Delilah,SOFRCGW12A81C21EA6,66852
+27,Rock,John Mayer,Half Of My Heart,SOXNZOW12AB017F756,65966
+28,Rock,Eagles,Hotel California,SOEBOWM12AB017F279,65585
+29,Rock,Linkin Park,In The End (Album Version),SOPVQLJ12A67AE2281,64000
+30,Rock,Guns N' Roses,Paradise City,SOQGVCS12AF72A078D,60787
+31,Rock,Colossal,Brave The Elements,SOQGSUC12A8C13B66D,57320
+32,Rock,Jimmy Eat World,The Middle,SORWLTW12A670208FA,56992
+33,Rock,MGMT,Time To Pretend,SOWOMMY127F8096DF9,56458
+34,Rock,Evanescence,My Immortal (Album Version),SOIPYPB12A8C1360D4,55655
+35,Rock,Nickelback,How You Remind Me,SOKMHKY12AF72AB079,54208
+36,Rock,Counting Crows,Mr. Jones,SONQEYS12AF72AABC9,51287
+37,Rock,Passion Pit,Sleepyhead,SOSLQQJ12AB017BDCC,51084
+38,Rock,Bon Iver,Skinny Love,SOTKYBW12A8C13C3EA,49649
+39,Rock,Jack Johnson,Bubble Toes,SOSPXWA12AB0181875,49597
+40,Rock,Two Door Cinema Club,What You Know,SONEWAX12AB018DD3F,49030
+41,Rock,Florence + The Machine,Rabbit Heart (Raise It Up),SOOWVNN12A8C140775,48042
+42,Rock,David Bowie,Sorrow (1997 Digital Remaster),SODCNEE12A6310E037,47785
+43,Rock,Linkin Park,What I've Done (Album Version),SOJKQSF12A6D4F5EE9,45817
+44,Rock,Muse,Resistance,SOXAQJS12AB018CBF7,44340
+45,Rock,Jack Johnson,Do You Remember,SOKUTUM12A6701D9CD,43280
+46,Rock,Coldplay,Shiver,SOSVPIE12A6D4FA873,43055
+47,Rock,Pandora's Box,The Want Ad,SOGLWGG12A6D4F8046,42819
+48,Rock,Sheryl Crow,Picture,SOHFGKG12A6701C429,42563
+49,Rock,Foo Fighters,Everlong,SOXVVSM12A8C142224,42427
+50,Rock,Metric,Help I'm Alive,SOEOJHS12AB017F3DC,42230
+51,Rock,Lynyrd Skynyrd,Sweet home Alabama,SOVQJRY12A81C210C0,42059
+52,Rock,Nickelback,Far Away (Album Version),SOFVZRE12A8C139783,41827
+53,Rock,Coldplay,Speed Of Sound,SOUKJBT12A6701C4D6,41493
+54,Rock,Coldplay,In My Place,SOMRYYN12A6310F0F3,41433
+55,Rock,Queen,Under Pressure,SOZYSDT12A8C13BFD7,40935
+56,Rock,Linkin Park,Crawling (Album Version),SOEKSGJ12A67AE227E,40739
+57,Rock,Guns N' Roses,Don't Cry (Original),SOAMIQK12A6701D94F,40480
+58,Rock,Florence + The Machine,I'm Not Calling You A Liar,SOILFUU12AB017C75F,40082
+59,Rock,A Day To Remember,If It Means A Lot To You,SORBBFV12AB017D710,39775
+60,Rock,Death Cab for Cutie,I Will Follow You into the Dark (Album Version),SOOYDAZ12A58A7AE08,39465
+61,Rock,Jag Panzer,Reign Of The Tyrants,SOIMTII12A6D4F662A,39226
+62,Rock,Nirvana,Come As You Are,SODEOCO12A6701E922,37653
+63,Rock,Franz Ferdinand,Take Me Out,SOXKOIY12A8C13C1EA,37541
+64,Rock,Metallica,Ride The Lightning,SOITRTA12A6D4F8261,35713
+65,Rock,Godsmack,Speak,SOHALKJ12AB017FCC2,35380
+66,Rock,Linkin Park,New Divide (Album Version),SOPSYOY12A8C142E0B,35191
+67,Rock,Creedence Clearwater Revival,Fortunate Son,SOLWRZI12A6D4FC4F0,34506
+68,Rock,Nick Cave & The Bad Seeds,Spell,SOOXLIG12AB0185803,33624
+69,Rock,Uncle Kracker,Follow Me (Explicit LP Version),SOTLHUV12A6D4FC541,33451
+70,Rock,The Black Keys,All Hands Against His Own,SONGYFE12AB018562D,33178
+71,Rock,Incubus,Drive,SOUKXIN12A8C133C7F,32990
+72,Rock,The Verve,Lord I Guess I'll Never Know,SOIKQFR12A6310F2A6,32968
+73,Rock,Radiohead,(Nice Dream),SOQQQMM12A6310DFCC,32962
+74,Rock,Buckcherry,Crazy Bitch (Album Version),SORWLJM12A6D4F9C0C,32933
+75,Rock,Deep Blue Something,Breakfast At Tiffany's,SOAYATB12A6701FD50,32507
+76,Rock,Cake,Frank Sinatra,SOWUTFF12A8C138AB2,32199
+77,Rock,Pixies,Where Is My Mind?,SOBBKGF12A8C1311EE,32185
+78,Rock,The Killers,Read My Mind,SOTEKMT12A67AD954E,31708
+79,Rock,Cage The Elephant,Back Against The Wall,SOABJBU12A8C13F63F,31418
+80,Rock,Foo Fighters,Learn To Fly,SODACBL12A8C13C273,31174
+81,Rock,Kix,Girl Money,SOCHWPT12AB0184F15,30503
+82,Rock,Metallica,One,SOZDGEW12A8C13E748,30485
+83,Rock,Nine Inch Nails,Wish,SOMORYX12B0B80908A,30371
+84,Rock,Metallica,Enter Sandman,SOCHYVZ12A6D4F5908,30202
+85,Rock,Days Of The New,Provider,SOPGYCQ12A6D4FB4DC,30146
+86,Rock,Hollywood Undead,Everywhere I Go,SOKVZHI12A58A7A13E,30030
+87,Rock,Phoenix,Lasso,SOZVUCT12A8C1424BE,29884
+88,Rock,The Rolling Stones,Angie (1993 Digital Remaster),SONQBUB12A6D4F8ED0,29754
+89,Rock,London After Midnight,Demon,SOOSCPN12AB0186AF2,29614
+90,Rock,Feist,My Moon My Man,SOAJAFJ12A58A7B75A,29084
+91,Rock,Days Of The New,Where I Stand,SOHIWSV12A67020042,29016
+92,Rock,Drowning Pool,Bodies,SOMAKIT12A58A7E292,28596
+93,Rock,Aerosmith,Crazy,SOHTQAS12A6701C7BA,28573
+94,Rock,Florence + The Machine,My Boy Builds Coffins,SOUCPBK12A58A7881A,28534
+95,Rock,The Black Keys,I'll Be Your Man,SOLLDVS12AB0183835,28413
+96,Rock,Metric,Gold Guns Girls,SOUOPLF12AB017F40F,28148
+97,Rock,Pearl Jam,Encore Break,SOVMADB12A8C137B96,27579
+98,Rock,Daughtry,No Surprise,SORMLZF12A8C143FFA,27187
+99,Rock,Eric Clapton,Tears In Heaven,SOSLZXV12A8C1354C9,26999
+100,Rock,Nick Lowe,All Men Are Liars,SOLPVAQ12AB017EB35,26683

@@ -1,0 +1,101 @@
+rank,genre,artist,title,song_id,play_count
+1,Electronic,Southside Spinners,Luvstruck,SOBRHVR12A8C133F35,84225
+2,Electronic,The Black Keys,Tighten Up,SOVDLZN12AB0185BEA,81179
+3,Electronic,Deadmau5,Ghosts 'n' Stuff (Original Instrumental Mix),SOEPZQS12A8C1436C7,63951
+4,Electronic,Daft Punk,Harder Better Faster Stronger,SOAFTRR12AF72A8D4D,63170
+5,Electronic,Clara Hill,Clara meets Slope - Hard To Say,SOJSXJY12A8C13E32E,58887
+6,Electronic,The Postal Service,Such Great Heights,SOAKMDU12A8C1346A9,58059
+7,Electronic,The Prodigy,The Big Gundown,SOVIZNF12AF72A710A,57178
+8,Electronic,M.I.A.,Paper Planes,SOUOEMP12A8C13866E,50763
+9,Electronic,Daft Punk,Around The World (Radio Edit),SOIMCDE12A6D4F8383,35885
+10,Electronic,Deadmau5,Moar Ghosts 'n' Stuff,SOSVQNK12AC468D6BE,34466
+11,Electronic,Michael Cretu,The Invisible Man,SODASIJ12A6D4F5D89,33476
+12,Electronic,Jonny L,Microdaze,SOWNIWL12AB017B720,31516
+13,Electronic,Justice,DVNO,SOPLAHV12A8C13D110,29289
+14,Electronic,Coldplay,Don't Panic,SOUCKDH12A8C138FF5,26937
+15,Electronic,Covenant,XRDS,SOCBSZW12AB01891C1,25948
+16,Electronic,Crystal Castles,Not In Love,SOUGOHW12AB018AEA3,24681
+17,Electronic,The Prodigy,Firestarter,SOHHJYE12A8AE47599,24250
+18,Electronic,Chromeo,Fancy Footwork,SOSJDQJ12A8C13D4A9,24138
+19,Electronic,Daft Punk,Digital Love,SOEWYLX12A6D4F8E5F,21626
+20,Electronic,Rinôçérôse / Mark Gardener,Where You From?,SOCIHMS12A8C142CC7,21399
+21,Electronic,Simian Mobile Disco,Simple,SOLARJV12AB018306B,20443
+22,Electronic,Moby,Lift Me Up,SOUVUHC12A67020E3B,20173
+23,Electronic,Air,Venus,SOMQHZK12A6D4F8074,19427
+24,Electronic,Ratatat,Loud Pipes,SOEVQQZ12A6D4F968E,18733
+25,Electronic,Daft Punk,Aerodynamic (Daft Punk Remix),SOVOOSP12A6310F1AC,18654
+26,Electronic,Phoenix,Holdin' On Together,SOHFVJR12AF72A9805,17865
+27,Electronic,Bodyrox,Yeah Yeah,SOSXTUO12A6D4F916B,17334
+28,Electronic,Datarock,True Stories,SOSSFAK12A8C1433B7,16647
+29,Electronic,Eisbrecher,Adrenalin,SOGBFOO12A6D4FC933,16482
+30,Electronic,Röyksopp,What Else Is There?,SOVJTTZ12AB017F48F,16054
+31,Electronic,Air,Playground Love,SOMUCFP12A6701F28E,15987
+32,Electronic,Cyberfit,Pojo Pojo,SOVIKOY12AB018627D,15946
+33,Electronic,Rammstein,Rammstein,SOKBTLR12AAA8C6656,15515
+34,Electronic,Justice,One Minute To Midnight,SOCJCVE12A8C13CDDB,15370
+35,Electronic,La Roux,I'm Not Your Toy,SOHOCMM12AB01845E0,15240
+36,Electronic,Parov Stelar,Chambermaid Swing,SOXNSGR12AF72A1AA9,15224
+37,Electronic,Röyksopp,So Easy,SOSSVAH12A6D4F9681,15103
+38,Electronic,Justice,TTHHEE PPAARRTTYY,SOCAFDI12A8C13D10E,14946
+39,Electronic,Daft Punk,Something About Us,SOQPCVN12AF729FB85,14805
+40,Electronic,Telepopmusik,Breathe,SOEUORE12A8C13953D,14751
+41,Electronic,Nine Inch Nails,Piggy,SOANSPC12A6702154A,14704
+42,Electronic,Tycho,The Daydream,SOKFORX12AB0189587,14627
+43,Electronic,Daft Punk,Technologic,SOOSADY12A6701F119,14572
+44,Electronic,Marumari,Baby M,SONYVJQ12A8C13DB65,14511
+45,Electronic,Röyksopp,In Space,SOWXDVT12B0B80BFA3,14370
+46,Electronic,Crystal Castles,Untrust us,SOHTRMF12A8C13E4EB,14029
+47,Electronic,Radiohead,Weird Fishes/Arpeggi,SOYCXUA12A8C133713,13742
+48,Electronic,Dot Allison,Substance (Felix Da Housecat Remix),SOWZUEB12A8C12FF12,13718
+49,Electronic,LCD Soundsystem,Daft Punk Is Playing At My House,SOIWBJU12A6701CBE7,13702
+50,Electronic,Caribou,Odessa,SOYEWFR12AB0189AB6,13475
+51,Electronic,Crystal Castles,Crimewave (Crystal Castles vs Health),SOOVSUC12A8C13ED09,13348
+52,Electronic,Boys Noize,Oh!,SOKTJXL12A8C13C90B,13100
+53,Electronic,Skream,Kut-Off,SOGXGKK12AB0184CD6,12989
+54,Electronic,Daft Punk,Television Rules The Nation / Crescendolls,SOYOGWU12A8AE481A6,12903
+55,Electronic,Hot Chip,I Feel Better,SONREBX12A8C142DBA,12730
+56,Electronic,LMFAO,I'm In Miami Bitch,SOTJDDY12AB017DC5B,12722
+57,Electronic,Modjo,Lady (Hear Me Tonight),SOQULVK12A6701E7A0,12685
+58,Electronic,Alice Deejay,Better Off Alone,SOTUCYL12A8C14487F,12664
+59,Electronic,Prodigy,Breathe,SONNBUM12A6D4FDDB4,12579
+60,Electronic,Four Tet,Everything Is Alright,SOKYBEO12A81C23957,12522
+61,Electronic,Envio,Touched By The Sun,SOPHQPE12AB0183798,12497
+62,Electronic,Despina Vandi,Gia,SOUEUYT12A58A7DB62,12457
+63,Electronic,Angus & Julia Stone,Paper Aeroplane,SOTLAOJ12A6D4FB4B2,12423
+64,Electronic,Rammstein,Sehnsucht,SOQJLTG12AAA8C665D,12398
+65,Electronic,Hot Chip,Ready For The Floor (Album Version),SORKFPY12A8AE46AFB,12385
+66,Electronic,Cut Copy,Feel The Love,SOEYDSK12A6D4FC6CE,12338
+67,Electronic,Rammstein,Sonne,SOYZOUY12AAF3B5B94,11881
+68,Electronic,Justice,D.A.N.C.E. [Radio Edit],SOBIQWH12A8C13BCDE,11842
+69,Electronic,Matthew Dear,Neighborhoods,SOZNHLC12A8C1392E0,11813
+70,Electronic,Eiffel 65,Blue (Da Ba Dee),SOBCNJU12A8C13F270,11520
+71,Electronic,Fatboy Slim,Illuminati,SOFGTCQ12AB01812C8,11515
+72,Electronic,Ratatat,Wildcat,SOOIVVR12A6D4F968C,11329
+73,Electronic,Future Loop Foundation,What's Your Name,SOVZHYS12A8C14663F,11318
+74,Electronic,The Crystal Method,True Grit,SOZZHQT12AB018B714,11114
+75,Electronic,Justice,Newjack,SOCEWVG12A8C13DCC2,11100
+76,Electronic,Pendulum,Propane Nightmares,SOXPRYO12A8AE46249,11005
+77,Electronic,The Cinematic Orchestra,To Build A Home,SOPAOQL12A6D4F9EC2,10886
+78,Electronic,Daft Punk,Aerodynamic,SOATNYF12AF72A8D48,10688
+79,Electronic,Four Tet,Hilarious Movie Of The 90s,SOAUXEN12A81C23960,10647
+80,Electronic,Daft Punk,Robot Rock,SOUBKFT12A6701F07A,10599
+81,Electronic,Rammstein,Engel,SOQHFWA12AAA8C6662,10560
+82,Electronic,Crystal Castles,Vanished,SORZCRI12A8AE4807B,10544
+83,Electronic,Owl City,Meteor Shower,SOQLHST12AB0184A27,10488
+84,Electronic,Phoenix,Everything Is Everything,SONUKHF12A67AE0395,10469
+85,Electronic,Cut Copy,Strangers In The Wind,SOWGZIE12A6D4FC6F2,10390
+86,Electronic,Moby,South Side,SOGPGBV12A6701EEE5,10227
+87,Electronic,Pendulum,Slam,SOVRQFG12A8C133A76,10148
+88,Electronic,Frou Frou,Holding Out For A Hero,SOFLGUD12A6701F7FD,10128
+89,Electronic,LCD Soundsystem,Someone Great,SONGIXY12A58A7BB42,10095
+90,Electronic,Daft Punk,Face To Face,SODMASJ12AF729E6FA,10003
+91,Electronic,Mischa Daniels,Another Place,SOLZTYD12A8C143215,9994
+92,Electronic,Coldplay,Swallowed In The Sea,SOAUBGU12A6701C57A,9938
+93,Electronic,Two Door Cinema Club,Come Back Home,SONAQPM12AB018DD17,9931
+94,Electronic,Justice,Valentine,SOLSCUX12A8C13D10B,9774
+95,Electronic,Morcheeba,Blindfold,SOINIUZ12A67ADF6D8,9584
+96,Electronic,Parov Stelar,A Night In Torino,SOYTIYM12AB018B743,9563
+97,Electronic,Nicolette,No Government,SOEKZAZ12A8C134536,9541
+98,Electronic,Two Door Cinema Club,Eat That Up_ It's Good For You,SOMYTVF12AB018DD45,9524
+99,Electronic,Moby,Why Does My Heart Feel So Bad? (2006 Digital Remaster),SOXKGUD12A58A7C687,9491
+100,Electronic,Death In Vegas,Girls,SOEUANM12A8AE47FD4,9490
